@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Guarded AI Agent
 
 A production-ready Guarded AI Agent architecture featuring MCP (Model Context Protocol) support.
@@ -46,3 +47,7 @@ curl -X POST http://localhost:3000/api/v1/agent/chat \\
     "conversationId": "optional-uuid"
   }'
 \`\`\`
+=======
+# armoriq-guarded-agent
+A secure AI agent with guardrails, MCP tool integration, prompt protection, policy engine, and conversation persistence.
+>>>>>>> 8a47bdb7e78ad995eb7ec3d66a7c978fa33c036c
